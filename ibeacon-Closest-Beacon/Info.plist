@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUsegeDescription</key>
+	<string>Use to detect beacons in the area.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Use to detect beacons in the area.</string>
 </dict>
 </plist>
